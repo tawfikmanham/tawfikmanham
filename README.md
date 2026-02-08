@@ -1,9 +1,11 @@
 # Hi, I'm Tawfik 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2200&pause=700&color=AB1F26&width=820&cursor=true&cursorChar=%7C&lines=Design+meets+Code;Product+Designer+to+UX+Engineer;AI-powered+product+prototyping;Building+Smart+Clinic+Token+Flow)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&duration=2200&pause=700&color=AB1F26&width=820&cursor=true&cursorChar=_&lines=Design+meets+Code;Product+Designer+to+UX+Engineer;AI-powered+product+prototyping;Building+Smart+Clinic+Token+Flow&v=100)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tawfikmanham.com-AB1F26?style=for-the-badge)](https://tawfikmanham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tawfik%20Manham-AB1F26?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tawfikmanham)
+<p>
+<a href="https://tawfikmanham.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tawfikmanham"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
+</p>
 
 Product Designer → UX Engineer  
 London 🇬🇧  
