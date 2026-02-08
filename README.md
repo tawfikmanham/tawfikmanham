@@ -31,11 +31,13 @@ Design × Code × AI
 
 ## 🛠 Stack
 
-TypeScript • React • Next.js • Vercel  
-Figma • Design Systems • AI Tools  
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
 
 ---
-
 ## 🌍 Links
 
 🌐 Portfolio  
